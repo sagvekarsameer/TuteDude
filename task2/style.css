@@ -1,0 +1,44 @@
+body{
+    background: orange;
+}
+
+.head{
+    color: blue;
+}
+
+#bglime{
+    background: greenyellow;
+}
+
+span{
+    color: red;
+}
+
+p{
+    color: white;
+}
+#para{
+    color: green;
+    font-size: small;
+}
+
+p span{
+    color: black;
+    font-size: xx-large;
+}
+
+
+ul li{
+    color: white;
+}
+
+
+ul li:first-child span {
+    background-color: yellow;
+    color: blue;
+}
+
+ul li:last-child span {
+    background-color: purple;
+    color: blue;
+}
