@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.image-display {
+    width: 50vw;
+    margin: 10vh 25vw;
+    border: 1px solid #ccc;
+}
+
+.image-display img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#user-btn {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(to right, #ffbd17, #42d33b);
+    color: white;
+    font-size: 16px;
+}
